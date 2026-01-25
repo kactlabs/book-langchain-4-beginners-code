@@ -4,3 +4,4 @@ langchain_community==0.4.1
 langchain_core==1.2.7
 langchain_google_genai==4.2.0
 python-dotenv==1.2.1
+langchain==1.2.6
