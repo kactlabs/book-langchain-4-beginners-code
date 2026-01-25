@@ -1,2 +1,4 @@
-langchain_google_genai==2.0.8
+langchain-classic==1.0.1
+langchain-google-genai
+langchain
 python-dotenv==1.2.1
